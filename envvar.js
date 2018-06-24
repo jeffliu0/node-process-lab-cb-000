@@ -1,1 +1,1 @@
-module.exports = process.NODE_ENV
+module.exports = process.env
